@@ -10,8 +10,8 @@ After installing mysql, i tested it out to make sure it was running by running t
 ![mysql testing](https://github.com/Chinyereonyenwe34/Project1/assets/132712031/659714cb-cb58-4777-8105-e75fc5d79401)
 #### Installing PHP
 I installed php by running the command sudo apt install php
-then i followed by running sudo apt install php libapache2-mod-php after which i ran sudo apt install php libapache2-mod-php php-mysql
-![php install](https://github.com/Chinyereonyenwe34/Project1/assets/132712031/bce86a83-d85d-4107-a407-1c25c5fd51d5)
+then i followed by running sudo apt install php libapache2-mod-php php-mysql 
+![php install 2](https://github.com/Chinyereonyenwe34/Project1/assets/132712031/d86d9a04-1905-40d7-9fdd-3c781a81ff31)
 I ran the command php -v to check the version of php installed as well.
 
 
